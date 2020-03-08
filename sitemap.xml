@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -26,21 +26,18 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/tags/adventure/</loc>
     <lastmod>2019-06-25T15:38:05+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/adventure/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-06-25T15:38:05+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/travel/</loc>
     <lastmod>2019-06-25T15:38:05+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -65,12 +62,10 @@
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/sections/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
