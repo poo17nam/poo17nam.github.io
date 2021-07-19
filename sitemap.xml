@@ -4,12 +4,12 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-06-25T15:38:05+05:30</lastmod>
+    <lastmod>2020-03-08T18:14:10+05:30</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2019-06-25T15:38:05+05:30</lastmod>
+    <lastmod>2020-03-08T18:14:10+05:30</lastmod>
   </url>
   
   <url>
@@ -21,43 +21,44 @@
   </url>
   
   <url>
+    <loc>/tags/adventure/</loc>
+    <lastmod>2020-03-08T18:14:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-08T18:14:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/travel/</loc>
+    <lastmod>2020-03-08T18:14:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/lalbagh/</loc>
+    <lastmod>2020-03-08T18:14:10+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/imagica/</loc>
     <lastmod>2019-06-25T15:38:05+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/adventure/</loc>
-    <lastmod>2019-06-25T15:38:05+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-06-25T15:38:05+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/travel/</loc>
-    <lastmod>2019-06-25T15:38:05+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/sections/simple-choices/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/sections/simple-people/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/sections/simple-values/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/sections/simple/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
